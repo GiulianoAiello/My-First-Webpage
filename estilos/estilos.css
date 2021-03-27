@@ -10,7 +10,7 @@
 
 body{
     background-image:url(img2.jpg);
-    background-size: center;
+    background-size: cover;
     background-position: 200px;
     padding-bottom:50px;
 }
